@@ -1,0 +1,6 @@
+[14-Nov-2016 14:31:41 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/advanced/frontend/views/site/index.php on line 5
+[14-Nov-2016 14:31:41 UTC] PHP Stack trace:
+[14-Nov-2016 14:31:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/advanced/frontend/views/site/index.php:0
+[14-Nov-2016 15:45:21 UTC] PHP Fatal error:  Using $this when not in object context in /home/ubuntu/workspace/advanced/frontend/views/site/index.php on line 5
+[14-Nov-2016 15:45:21 UTC] PHP Stack trace:
+[14-Nov-2016 15:45:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/advanced/frontend/views/site/index.php:0
